@@ -137,7 +137,7 @@ body:before {
 	transform: scale(1);
 	width: 100vw;
 	z-index: 0;
-	background-image: url(https://raw.githubusercontent.com/fterasu/expo.github.io/16eebd261f5fe18a20e250924a277b3124ace122/AzemExpoLogojupiter.png);
+	background-image: url(https://raw.githubusercontent.com/fterasu/expo.github.io/b06ba852bd62f62e520f242492a7ceda41705402/No%20logo.jpeg);
 	background-size:512px, cover, cover;
 	background-position: center, 0% 0%, center;
 	background-repeat: repeat, repeat, no-repeat;
