@@ -125,7 +125,7 @@ ul {
 	box-sizing: border-box;
 }
 
-body:before {
+body::before {
   content: "";
   position: fixed;
   top: 0;
@@ -135,7 +135,7 @@ body:before {
   z-index: -1;
   pointer-events: none;
 
-	background-image: url(https://raw.githubusercontent.com/fterasu/expo.github.io/b06ba852bd62f62e520f242492a7ceda41705402/No%20logo.jpeg);
+  background-image: url(https://raw.githubusercontent.com/fterasu/expo.github.io/b06ba852bd62f62e520f242492a7ceda41705402/No%20logo.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -684,6 +684,8 @@ p.style7 span.p:nth-child(n+2) {
 
 #footer {
 	margin-top: 0.5rem !important;
+	position: relative;
+	top: -103px;
 }
 
 .crByCb {
@@ -743,6 +745,8 @@ p.style7 span.p:nth-child(n+2) {
 #i0dsj {
 	opacity: 1;
 	background-image: none;
+	position: relative;
+	z-index: 2;
 }
 
 #buttons01 {
@@ -759,6 +763,7 @@ p.style7 span.p:nth-child(n+2) {
 	position: relative;
 	top: -88px;
 	height: 159px;
+	z-index: 3;
 }
 
 #start-section {
@@ -855,7 +860,6 @@ p.style7 span.p:nth-child(n+2) {
 
 #imusu {
 	position: relative;
-	top: -67px;
 }
 
 @font-face {
