@@ -38,50 +38,48 @@ const images_DynamicB = [
 ];
 
 function getCentralTime() {
-    const nowUTC = new Date();
-    const centralTimeString = nowUTC.toLocaleString('en-US', { timeZone: 'America/Chicago' });
-    return new Date(centralTimeString);
+  const nowUTC = new Date();
+  const centralTimeString = nowUTC.toLocaleString('en-US', { timeZone: 'America/Chicago' });
+  return new Date(centralTimeString);
+}
+
+function getDynamicBIndex() {
+  const now = getCentralTime();
+  const currentMinutes = now.getHours() * 60 + now.getMinutes();
+  const startMinutes = 12 * 60; // 12:00 PM
+  const totalActiveMinutes = 15 * 60; // 12PM–3AM = 900 minutes
+
+  // Before 12PM → show last image
+  if (currentMinutes < startMinutes) {
+    return images_DynamicB.length - 1;
   }
 
-  function getDynamicBIndex() {
-    const now = getCentralTime();
-    const currentMinutes = now.getHours() * 60 + now.getMinutes();
-    const startMinutes = 12 * 60; // 12:00 PM CT
-    const endMinutes = 4 * 60; // Until 4:00 AM CT next day
-
-    // Return the last image if the time is past the end time
-    if (currentMinutes >= 4 * 60) {
-      return images_DynamicB.length - 1;
-    }
-
-    if (currentMinutes < startMinutes) {
-      return 0; // Before start time (keep showing the first image)
-    }
-
-    for (let i = 0; i < images_DynamicB.length; i++) {
-      const imageStart = startMinutes + (i * 30);  // assuming each image is shown for 30 minutes
-      const imageEnd = imageStart + 30; // adjust the end time
-
-      if (currentMinutes >= imageStart && currentMinutes < imageEnd) {
-        return i;
-      }
-    }
-
-    return images_DynamicB.length - 1;  // Default to the last image
+  let minutesSinceStart;
+  if (now.getHours() >= 12) {
+    minutesSinceStart = currentMinutes - startMinutes;
+  } else {
+    // After midnight but before 3AM
+    minutesSinceStart = (24 * 60 - startMinutes) + currentMinutes;
   }
 
-  function updateImage() {
-    const imageIndex = getDynamicBIndex();
-    const selectedImage = images_DynamicB[imageIndex];
-
-    // Update the image in the container
-    const container = document.getElementById('dynamicImageContainerB');
-    container.innerHTML = `<a href="${selectedImage.link}" target="_blank">
-      <img src="${selectedImage.url}" alt="Dynamic Image" style="width: 100%; max-width: 840px;">
-    </a>`;
+  // After 3AM (past end of schedule) → show last image
+  if (minutesSinceStart >= totalActiveMinutes) {
+    return images_DynamicB.length - 1;
   }
 
-  // Update the image every 5 minutes
-  setInterval(updateImage, 300000);
-  updateImage(); // Initial update
+  return Math.floor(minutesSinceStart / 30); // 30-minute slots
+}
+
+function updateImage() {
+  const imageIndex = getDynamicBIndex();
+  const selectedImage = images_DynamicB[imageIndex];
+
+  const container = document.getElementById('dynamicImageContainerB');
+  container.innerHTML = `<a href="${selectedImage.link}" target="_blank">
+    <img src="${selectedImage.url}" alt="Dynamic Image" style="width: 100%; max-width: 840px;">
+  </a>`;
+}
+
+setInterval(updateImage, 300000); // Every 5 minutes
+updateImage(); // Initial update
 })();
