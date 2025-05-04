@@ -42,7 +42,7 @@ const images_DynamicE = [
     const { url, link } = images[index];
     const container = document.getElementById('dynamicImageContainerE');
     if (container) {
-      container.innerHTML = `<a href="${link}" target="_blank"><img src="${url}" alt="Dynamic A" style="width: 100%; max-width: 840px;"></a>`;
+      container.innerHTML = `<a href="${link}" target="_blank"><img src="${url}" alt="DynamicE" style="width: 100%; max-width: 840px;"></a>`;
     }
   }
 
