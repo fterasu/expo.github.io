@@ -49,4 +49,3 @@ const images_DynamicE = [
   setInterval(updateImage, 300000); // every 5 mins
   updateImage();
 })();
-</script>
