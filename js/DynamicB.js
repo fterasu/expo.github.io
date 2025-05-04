@@ -2,7 +2,7 @@
 // Unique namespace: _DynamicB
 
 const images_DynamicB = [
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/SoonA.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//12PMCT Starting Soon
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/SoonB.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//12PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/SoonB.png", link: "https://www.youtube.com/watch?v=WMP4HH7mct0" }, 				//1230PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/ArtistB.png", link: "https://youtu.be/OG_e8ve0l_w?si=0D89f2xhoeQ8kaGb&t=38" }, 	//1PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/ArtistB.png", link: "https://www.youtube.com/watch?v=tGPBdVSFFow" }, 				//130PMCT Artist Slot A
@@ -30,10 +30,10 @@ const images_DynamicB = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/break.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//1230AMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/break.png", link: "https://www.youtube.com/watch?v=WMP4HH7mct0" }, 				//1AMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/break.png", link: "https://youtu.be/OG_e8ve0l_w?si=0D89f2xhoeQ8kaGb&t=38" }, 		//130AMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/ended.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//2AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/ended.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//230AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/ended.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//3AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/ended.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" },		//330AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/endedB.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//2AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/endedB.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//230AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/endedB.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" }, 		//3AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/endedB.png", link: "https://youtu.be/_WZCvQ5J3pk?si=ofPX0qN9iMupDDP6&t=34" },		//330AMCT Event Ended
 // Add up to 36
 ];
 
