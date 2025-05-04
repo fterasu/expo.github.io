@@ -10,7 +10,7 @@
     { text: "Elenimut", 	link: "https://example.com/2" }, 	//230PMCT Artist Slot A
     { text: "Shavostars", 	link: "https://example.com/2" }, 	//3PMCT Artist Slot A
     { text: "Shavostars", 	link: "https://example.com/2" }, 	//330PMCT Artist Slot A
-    { text: "Shavostars" 	link: "https://example.com/2" }, 	//4PMCT Starting Soon
+    { text: "Shavostars", 	link: "https://example.com/2" }, 	//4PMCT Starting Soon
     { text: "Shavostars", 	link: "https://example.com/2" }, 	//430PMCT Starting Soon
     { text: "Break Slot", 	link: "https://example.com/2" }, 	//5PMCT Artist Slot A
     { text: "Break Slot",	link: "https://example.com/2" }, 	//530PMCT Artist Slot A
