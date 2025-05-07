@@ -36,14 +36,15 @@ const images_dynamicA = [
 ];
 
   function updateImage() {
-    const index = getDynamicIndex(images_DynamicA);
+    const index = window.getDynamicIndex(images_DynamicA);  // call global
     const imgData = images_DynamicA[index];
     const container = document.getElementById('dynamicImageContainerA');
+    if (!container) return;
     container.innerHTML = `<a href="${imgData.link}" target="_blank">
       <img src="${imgData.url}" alt="Dynamic Image" style="width: 100%; max-width: 840px;">
     </a>`;
   }
 
-  setInterval(updateImage, 300000); // every 5 min
+  setInterval(updateImage, 300000);
   updateImage();
 })();

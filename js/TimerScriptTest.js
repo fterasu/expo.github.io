@@ -1,12 +1,12 @@
-// timer.js
-function getCentralTime() {
+// timer.js (modified to be Carrd-compatible)
+window.getCentralTime = function () {
   const nowUTC = new Date();
   const centralTimeString = nowUTC.toLocaleString('en-US', { timeZone: 'America/Chicago' });
   return new Date(centralTimeString);
-}
+};
 
-function getDynamicIndex(imageArray) {
-  const now = getCentralTime();
+window.getDynamicIndex = function (imageArray) {
+  const now = window.getCentralTime();
   const currentMinutes = now.getHours() * 60 + now.getMinutes();
   const startMinutes = 12 * 60;
   const totalActiveMinutes = 15 * 60;
@@ -27,4 +27,4 @@ function getDynamicIndex(imageArray) {
   }
 
   return Math.floor(minutesSinceStart / 30);
-}
+};
