@@ -1,28 +1,30 @@
-// TimeHelper.js
-
-export function getCentralTime() {
+// timer.js
+function getCentralTime() {
   const nowUTC = new Date();
   const centralTimeString = nowUTC.toLocaleString('en-US', { timeZone: 'America/Chicago' });
   return new Date(centralTimeString);
 }
 
-export function getIndexByTime(startHour, totalImages) {
+function getDynamicIndex(imageArray) {
   const now = getCentralTime();
   const currentMinutes = now.getHours() * 60 + now.getMinutes();
-  const startMinutes = startHour * 60;
-  const endMinutes = 3 * 60; // ⬅️ Changed from 4 * 60 to 3 * 60
+  const startMinutes = 12 * 60;
+  const totalActiveMinutes = 15 * 60;
 
   if (currentMinutes < startMinutes) {
-    return 0;
+    return imageArray.length - 1;
   }
 
-  if (currentMinutes >= endMinutes) {
-    return totalImages - 1;
+  let minutesSinceStart;
+  if (now.getHours() >= 12) {
+    minutesSinceStart = currentMinutes - startMinutes;
+  } else {
+    minutesSinceStart = (24 * 60 - startMinutes) + currentMinutes;
   }
 
-  const elapsedMinutes = currentMinutes - startMinutes;
-  const interval = 30; // 30-minute intervals
-  const index = Math.floor(elapsedMinutes / interval);
+  if (minutesSinceStart >= totalActiveMinutes) {
+    return imageArray.length - 1;
+  }
 
-  return Math.min(index, totalImages - 1);
+  return Math.floor(minutesSinceStart / 30);
 }
