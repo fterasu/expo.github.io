@@ -1,7 +1,7 @@
 (function(){
-// Unique namespace: _DynamicF
+// Unique namespace: _DynamicG
 
-const images_DynamicF = [
+const images_DynamicG = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/SoonA.png"}, 		//12PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/SoonA.png"}, 		//1230PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Placeholder/NPCBreak.png"}, 	//1PMCT 
@@ -43,7 +43,7 @@ function getCentralTime() {
   return new Date(centralTimeString);
 }
 
-function getDynamicFIndex() {
+function getDynamicGIndex() {
   const now = getCentralTime();
   const currentMinutes = now.getHours() * 60 + now.getMinutes();
   const startMinutes = 12 * 60; // 12:00 PM
@@ -51,7 +51,7 @@ function getDynamicFIndex() {
 
   // Before 12PM → show last image
   if (currentMinutes < startMinutes) {
-    return images_DynamicF.length - 1;
+    return images_DynamicG.length - 1;
   }
 
   let minutesSinceStart;
@@ -64,17 +64,17 @@ function getDynamicFIndex() {
 
   // After 3AM (past end of schedule) → show last image
   if (minutesSinceStart >= totalActiveMinutes) {
-    return images_DynamicF.length - 1;
+    return images_DynamicG.length - 1;
   }
 
   return Math.floor(minutesSinceStart / 30); // 30-minute slots
 }
 
 function updateImage() {
-  const imageIndex = getDynamicFIndex();
-  const selectedImage = images_DynamicF[imageIndex];
+  const imageIndex = getDynamicGIndex();
+  const selectedImage = images_DynamicG[imageIndex];
 
-  const container = document.getElementById('dynamicImageDynamicF');
+  const container = document.getElementById('dynamicImageDynamicG');
   container.innerHTML = `<a href="${selectedImage.link}" target="_blank">
     <img src="${selectedImage.url}" alt="Dynamic Image" style="width: 100%; max-width: 840px;">
   </a>`;
