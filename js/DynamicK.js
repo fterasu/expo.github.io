@@ -76,7 +76,7 @@ function updateImage() {
 
   const container = document.getElementById('dynamicImageDynamicK');
   container.innerHTML = `<a href="${selectedImage.link}" target="_blank">
-    <img src="${selectedImage.url}" alt="Dynamic Image" style="width: 100%; max-width: 570px;">
+    <img src="${selectedImage.url}" alt="Dynamic Image" style="width: 100%; max-width: 840px;">
   </a>`;
 }
 
