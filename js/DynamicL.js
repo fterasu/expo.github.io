@@ -8,9 +8,9 @@ const images_DynamicL = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" }, 		//130PMCT 	
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//2PMCT 	Cancelled
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//230PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/NormHost.jpg", link: "#" },		//3PMCT 	Norm
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/fa286f2010c4f83b3213304357888be83843c7c8/Banners/AuctionArtists/NormHost.jpg", link: "#" },		//3PMCT 	Norm
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//330PMCT 	
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/NormHost.jpg", link: "#" },		//4PMCT 	Norm
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/fa286f2010c4f83b3213304357888be83843c7c8/Banners/AuctionArtists/NormHost.jpg", link: "#" },		//4PMCT 	Norm
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//430PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/AuctionArtistC.jpg", link: "#" },		//5PMCT 	Amanda
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//530PMCT 	
