@@ -5,35 +5,35 @@ const images_DynamicH = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" }, 		//12PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" }, 		//1230PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" }, 		//1PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.png", link: "#" }, 				//130PMCT 	Fray Loki
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.png", link: "#" },				//2PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.png", link: "#" },				//230PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.png", link: "#" },				//3PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.jpg", link: "#" }, 				//130PMCT 	Fray Loki
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.jpg", link: "#" },				//2PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.jpg", link: "#" },				//230PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCC.jpg", link: "#" },				//3PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//330PMCT 	NPC BReak
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//4PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//430PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//5PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCK.png", link: "#" },				//530PMCT 	Dancing Green
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCK.png", link: "#" }, 				//6PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCK.png", link: "#" }, 				//630PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCK.jpg", link: "#" },				//530PMCT 	Dancing Green
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCK.jpg", link: "#" }, 				//6PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCK.jpg", link: "#" }, 				//630PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//7PMCT 	Dancing Green Moved to G slot for Parity
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" }, 		//730PMCT 	Middle Spot Empty Cuz 4 NPCs after Urianger
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//8PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" }, 		//830PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//9PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/ClearSlot.png", link: "#" },		//930PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.png", link: "#" },			//10PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.png", link: "#" },			//1030PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.png", link: "#" },			//11PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.png", link: "#" },			//1130PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.png", link: "#" },			//12AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.png", link: "#" },			//1230AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.png", link: "#" },			//1AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.png", link: "#" },			//130AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.png", link: "#" },			//2AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.png", link: "#" },			//230AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.png", link: "#" },			//3AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.png", link: "#" },			//330AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.jpg", link: "#" },			//10PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.jpg", link: "#" },			//1030PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.jpg", link: "#" },			//11PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCFFA.jpg", link: "#" },			//1130PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },			//12AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },			//1230AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },			//1AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },			//130AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.jpg", link: "#" },			//2AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.jpg", link: "#" },			//230AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.jpg", link: "#" },			//3AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Ending.jpg", link: "#" },			//330AMCT Event Ended
 ];
 
 function getCentralTime() {
