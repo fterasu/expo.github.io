@@ -4,7 +4,7 @@
 const images_DynamicI = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/SoonD.jpg", link: "#" }, 		//12PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/SoonD.jpg", link: "#" }, 		//1230PMCT Starting Soon
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/SoonD.jpg", link: "#" }, 		//1PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCD.jpg", link: "#" }, 		//1PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCD.jpg", link: "#" }, 			//130PMCT 	Emet
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCD.jpg", link: "#" },			//2PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/CafeStaff/NPCD.jpg", link: "#" },			//230PMCT 
