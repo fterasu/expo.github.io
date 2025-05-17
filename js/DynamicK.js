@@ -10,15 +10,14 @@ const images_DynamicK = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//230PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/AuctionArtistC.jpg", link: "https://expoartists.carrd.co/#profile16" },		//3PMCT 	Amanda
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//330PMCT 	
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/AuctionArtistB.jpg", link: "https://expoartists.carrd.co/#profile11" },		//4PMCT 	Baz
+{ url: "https://expoartists.carrd.co/assets/images/image21.jpg", link: "https://expoartists.carrd.co/#profile11" },		//4PMCT 	Baz
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//430PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/AuctionArtistD.jpg", link: "https://expoartists.carrd.co/#profile17" },		//5PMCT 	Sundown
+{ url: "https://expoartists.carrd.co/assets/images/image05.jpg", link: "https://expoartists.carrd.co/#profile17" },		//5PMCT 	Sundown
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//530PMCT 	
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/AuctionArtistE.jpg", link: "https://expoartists.carrd.co/#profile08" }, 		//6PMCT 	Diana
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" }, 		//630PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/AuctionArtistF.jpg", link: "https://expoartists.carrd.co/#profile18" },		//7PMCT 	Kalentan
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//730PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/AuctionArtists/AuctionArtistG.jpg", link: "https://expoartists.carrd.co/#profile19" },		//8PMCT 	Lumeria
+{ url: "https://expoartists.carrd.co/assets/images/image06.jpg", link: "https://expoartists.carrd.co/#profile18" },		//7PMCT 	Kalentan
+{ url: "https://https://expoartists.carrd.co/assets/images/image03.jpg", link: "https://expoartists.carrd.co/#profile19" },		//8PMCT 	Lumeria
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" }, 		//830PMCT 
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//9PMCT 	
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/241e6ad67ae6fe127b132f0acbafd9ae661cca44/Banners/DebugBanners/Break.jpg", link: "#" },		//930PMCT 
