@@ -2,38 +2,38 @@
 // Unique namespace: _DynamicI
 
 const images_DynamicI = [
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonD.png"}, 		//12PMCT Starting Soon
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonD.png"}, 		//1230PMCT Starting Soon
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonD.png"}, 		//1PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png"}, 			//130PMCT 	Emet
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png"},			//2PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png"},			//230PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png"},			//3PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png"},			//330PMCT 	Hildibrand
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png"},			//4PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png"},			//430PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png"},			//5PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png"},	//530PMCT 	3 Slot NPC time
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png"},	//6PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png"}, 	//630PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCC.png"},			//7PMCT 	Fray Jumps to this Block when Urianger Joins
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCO.png"}, 			//730PMCT 	Thancred Tags in
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCO.png"},			//8PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCO.png"}, 			//830PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png"},	//9PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png"},	//930PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png"},		//10PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png"},		//1030PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png"},		//11PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png"},		//1130PMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"},		//12AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"},		//1230AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"},		//1AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"},		//130AMCT 
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png"},		//2AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png"},		//230AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png"},		//3AMCT Event Ended
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png"},		//330AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonD.png", link: "#" }, 		//12PMCT Starting Soon
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonD.png", link: "#" }, 		//1230PMCT Starting Soon
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonD.png", link: "#" }, 		//1PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png", link: "#" }, 			//130PMCT 	Emet
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png", link: "#" },			//2PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png", link: "#" },			//230PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCD.png", link: "#" },			//3PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png", link: "#" },			//330PMCT 	Hildibrand
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png", link: "#" },			//4PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png", link: "#" },			//430PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCH.png", link: "#" },			//5PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png", link: "#" },	//530PMCT 	3 Slot NPC time
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png", link: "#" },	//6PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png", link: "#" }, 	//630PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCC.png", link: "#" },			//7PMCT 	Fray Jumps to this Block when Urianger Joins
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCO.png", link: "#" }, 			//730PMCT 	Thancred Tags in
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCO.png", link: "#" },			//8PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCO.png", link: "#" }, 			//830PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png", link: "#" },	//9PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/ClearSlot.png", link: "#" },	//930PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png", link: "#" },		//10PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png", link: "#" },		//1030PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png", link: "#" },		//11PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/CafeStaff/NPCFFA.png", link: "#" },		//1130PMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" },		//12AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" },		//1230AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" },		//1AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" },		//130AMCT 
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png", link: "#" },		//2AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png", link: "#" },		//230AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png", link: "#" },		//3AMCT Event Ended
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png", link: "#" },		//330AMCT Event Ended
 // Add up to 36
 ];
 

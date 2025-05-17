@@ -2,8 +2,8 @@
 // Unique namespace: _dynamicA
 
 const images_dynamicA = [
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonA.png"}, 																	//12PMCT Starting Soon
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonA.png"}, 																	//1230PMCT Starting Soon
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonA.png", link: "#" }, 																	//12PMCT Starting Soon
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/SoonA.png", link: "#" }, 																	//1230PMCT Starting Soon
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistA.png", link: "https://expoartists.carrd.co/#profile01" }, 				//1PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistA.png", link: "https://expoartists.carrd.co/#profile01" }, 				//130PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistA.png", link: "https://expoartists.carrd.co/#profile01" }, 				//2PMCT Artist Slot A
@@ -12,7 +12,7 @@ const images_dynamicA = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistF.png", link: "https://expoartists.carrd.co/#profile06" },				//330PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistF.png", link: "https://expoartists.carrd.co/#profile06" }, 				//4PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistF.png", link: "https://expoartists.carrd.co/#profile06" }, 				//430PMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//5PMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//5PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistK.png", link: "https://expoartists.carrd.co/#profile11" }, 				//530PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistK.png", link: "https://expoartists.carrd.co/#profile11" }, 				//6PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistK.png", link: "https://expoartists.carrd.co/#profile11" }, 				//630PMCT Artist Slot A
@@ -20,16 +20,16 @@ const images_dynamicA = [
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistI.png", link: "https://expoartists.carrd.co/#profile09" }, 				//730PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistI.png", link: "https://expoartists.carrd.co/#profile09" }, 				//8PMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/AlleyArtists/ArtistI.png", link: "https://expoartists.carrd.co/#profile09" }, 				//830PMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//9PMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//930PMCT SArtist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"},																	//10PMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//1030PMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//11PMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//1130PMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//12AMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//1230AMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"},																	//1AMCT Artist Slot A
-{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png"}, 																	//130AMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//9PMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//930PMCT SArtist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" },																	//10PMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//1030PMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//11PMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//1130PMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//12AMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//1230AMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" },																	//1AMCT Artist Slot A
+{ url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Break.png", link: "#" }, 																	//130AMCT Artist Slot A
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png", link: "https://www.twitch.tv/tiffanylockheart" }, 				//2AMCT Event Ended
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png", link: "https://www.twitch.tv/tiffanylockheart" }, 				//230AMCT Event Ended
 { url: "https://raw.githubusercontent.com/fterasu/expo.github.io/refs/heads/main/Banners/DebugBanners/Ending.png", link: "https://www.twitch.tv/tiffanylockheart" }, 				//3AMCT Event Ended
